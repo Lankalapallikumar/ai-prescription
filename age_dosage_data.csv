@@ -1,0 +1,20 @@
+"Drug","Age Group","Dosage","Frequency"
+Paracetamol,Infant (0-2),120mg,3 times a day
+Paracetamol,Child (2-12),250mg,2 times a day
+Paracetamol,Adult (13-60),500mg,3 times a day
+Paracetamol,Senior (60+),500mg,2 times a day
+Ibuprofen,Infant (0-2),50mg,3 times a day
+Ibuprofen,Child (2-12),100mg,3 times a day
+Ibuprofen,Adult (13-60),400mg,2 times a day
+Ibuprofen,Senior (60+),200mg,2 times a day
+Amoxicillin,Infant (0-2),125mg,3 times a day
+Amoxicillin,Child (2-12),250mg,3 times a day
+Amoxicillin,Adult (13-60),500mg,3 times a day
+Amoxicillin,Senior (60+),500mg,2 times a day
+Cetirizine,Child (2-12),5mg,once a day
+Cetirizine,Adult (13-60),10mg,once a day
+Cetirizine,Senior (60+),5mg,once a day
+Metformin,Adult (13-60),500mg,twice a day
+Metformin,Senior (60+),500mg,once a day
+Aspirin,Adult (13-60),75mg,once a day
+Aspirin,Senior (60+),75mg,once a day
